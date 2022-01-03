@@ -1,1 +1,2 @@
-# mail-service
+# Email service API
+
