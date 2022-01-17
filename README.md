@@ -7,7 +7,7 @@ This is email service api used for receiving emails from users.
 
 - JavaScript
 - Serverless
-- AWS SES
+- AWS SES & Lambda
 
 ### Screenshots
 
